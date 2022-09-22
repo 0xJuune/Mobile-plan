@@ -76,6 +76,7 @@ footer {
     align-items: center;
     gap: 18px;
     width: 220px;
+    display: none;
 }
 
 #formArea > :first-child  {
